@@ -1,1 +1,8 @@
-# DS-Stack-whith-array-newADT
+# Readme:
+ 
+---
+ 
+<h2 align='center'>Implement 2Stack with array (NEW ADT) in C#</h2>
+<h3 quote align='center'>Data Structure</h3 quote>
+ 
+---
